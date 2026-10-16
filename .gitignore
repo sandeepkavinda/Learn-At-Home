@@ -1,0 +1,13 @@
+config.php
+
+assignmentAnswers/*
+!assignmentAnswers/.gitkeep
+
+assignments/*
+!assignments/.gitkeep
+
+images/profile_images/*
+!images/profile_images/defaultProfileImage.png
+
+lesson_notes/*
+!lesson_notes/.gitkeep
