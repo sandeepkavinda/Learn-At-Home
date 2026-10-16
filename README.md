@@ -2,7 +2,7 @@
 
 A web-based academic management system designed to connect students, teachers, and academic office staff through a centralized platform for managing educational activities and resources.
 
-> **Project History:** Originally developed in 2023 as an academic software project.
+> **Project History:** Originally developed in January 2023 as an academic software project.
 
 ## Project Overview
 
@@ -152,6 +152,7 @@ Notes:
 
 **Sandeep Kavinda**
 
+- LinkedIn: [@sandeepkavinda](https://www.linkedin.com/in/sandeepkavinda/)
 - GitHub: [@sandeepkavinda](https://github.com/sandeepkavinda)
 
 ## 📄 License
